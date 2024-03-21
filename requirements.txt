@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
 numpy
 pandas
 implicit
@@ -7,3 +8,6 @@ openpyxl
 notebook
 polars
 scikit-learn
+torch
+torchvision
+torchaudio
