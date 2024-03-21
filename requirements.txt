@@ -1,0 +1,9 @@
+numpy
+pandas
+implicit
+pymongo
+ipykernel
+openpyxl
+notebook
+polars
+scikit-learn
